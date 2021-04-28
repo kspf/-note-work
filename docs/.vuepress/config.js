@@ -1,9 +1,11 @@
 module.exports = {
     head: [ // 设置 favor.ico，html/head 标题中添加 style 标签
-        ['link', {
-            rel: 'icon',
-            href: `logo.png`
-        }]
+        [
+            'link', {
+                rel: 'icon',
+                href: `favicon.ico`
+            }
+        ]
     ],
     title: '小马哥的日常生活', // 设置网站标题
     description: '描述：小马哥的日常生活',
