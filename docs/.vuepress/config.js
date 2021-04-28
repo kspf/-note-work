@@ -8,7 +8,7 @@ module.exports = {
         ]
     ],
     title: '小马哥的日常生活', // 设置网站标题
-    description: '描述：小马哥的日常生活',
+    description: '抓紧时间做我喜欢的事',
     base: '/', //默认路径
     activeHeaderLinks: true, // 默认值：true
     sidebarDepth: 4,
