@@ -79,12 +79,9 @@ module.exports = {
                 'vite', /** vite */
             ],
             '/note_work/react-principle/': [
-                '',
-                'react-review', /** react基础回顾 */
+                '',/** react基础回顾 */
+                'react-vrtualdom', /** VirtualDOM 及 Diff 算法 */
             ]
-
-
-            // 
         }
     }
 }
